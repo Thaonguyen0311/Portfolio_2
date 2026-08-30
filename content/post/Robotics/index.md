@@ -2,7 +2,7 @@
 title: "KUKA Robot Letter Writing"
 description: 
 date: 2026-08-30T19:16:59Z
-image: 
+image: KUKA.jpg
 math: 
 license: 
 comments: true
@@ -21,6 +21,3 @@ This project demonstrates the use of a **KUKA industrial robot** to automaticall
 The program was developed using **KUKA Robot Language (KRL)** and includes configurable parameters for text input, character size, spacing, line spacing, paper dimensions, and pen movement. A cursor-based system tracks the writing position and automatically moves to a new line when the available writing area is reached.
 
 The project combines **robot programming, motion control, coordinate systems, geometric path generation, and basic text-processing logic**, demonstrating how an industrial robot can be programmed for flexible writing and drawing applications.
-
-
-
