@@ -12,7 +12,10 @@ build:
 ---
 ## 🐝 Bee Tracking and Counting with YOLOv11 + ByteTrack 
 
+[Research Paper — arXiv](https://arxiv.org/abs/2608.23213v1)
+
 {{< youtube kIclX8NpDqc >}}
+
 
 Developed an automated bee monitoring system using **YOLO11 + ByteTrack** to detect, track, and count bees entering and leaving a hive.
 
