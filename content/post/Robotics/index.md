@@ -11,9 +11,8 @@ build:
     list: always    # Change to "never" to hide the page from the list
 ---
 ## KUKA Robot Letter Writing Project
->
->
-https://www.youtube.com/shorts/jiU5Ev7drDI
+
+{{< youtube jiU5Ev7drDI >}}
 
 https://github.com/Thaonguyen0311/KUKA-Robotics
 
