@@ -11,7 +11,7 @@ build:
     list: always    # Change to "never" to hide the page from the list
 ---
 
-[![Bee Tracking Demo](https://img.youtube.com/vi/7zeq_d3Gcyo/maxresdefault.jpg)](https://www.youtube.com/shorts/7zeq_d3Gcyo)
+{{< youtube 7zeq_d3Gcyo >}}
 
 ## 👶 Baby Sleep Monitoring System
 
