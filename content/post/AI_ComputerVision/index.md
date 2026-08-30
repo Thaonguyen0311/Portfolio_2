@@ -12,7 +12,7 @@ build:
 ---
 ## 🐝 Bee Tracking and Counting with YOLOv11 + ByteTrack 
 
-[Research Paper — arXiv](https://arxiv.org/abs/2608.23213v1)
+> 📄 **[Read the Research Paper on arXiv →](https://arxiv.org/abs/2608.23213v1)**
 
 {{< youtube kIclX8NpDqc >}}
 
