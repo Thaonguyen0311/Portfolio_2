@@ -13,12 +13,12 @@ SortBy              = "default"
     since      = 2020
     customText = ""
 
-[dateFormat]
-    published   = ":date_full"
-    lastUpdated = ":date_full"
+# [dateFormat]
+#     published   = ":date_full"
+#     lastUpdated = ":date_full"
 
 [sidebar]
-    emoji    = "🍥"
+    # emoji    = "🍥"
     subtitle = ""
     avatar   = "img/1951_squared.jpg"
 
