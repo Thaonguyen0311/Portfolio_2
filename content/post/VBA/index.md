@@ -8,7 +8,7 @@ image: excelvba.jpg
 #     - Example Category
 tags:
     - Example Tag
-weight: 2       # You can add weight to some posts to override the default sorting (date descending)
+# You can add weight to some posts to override the default sorting (date descending)
 ---
 
 Create a pop-up userform to let users choose what data they want to extract

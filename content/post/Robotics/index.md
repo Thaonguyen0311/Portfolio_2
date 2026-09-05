@@ -7,6 +7,7 @@ math:
 license: 
 comments: true
 draft: false
+weight: 3
 build:
     list: always    # Change to "never" to hide the page from the list
 ---
